@@ -1,0 +1,15 @@
+{
+  "name": "send-email-from-sendgrid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "You",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.4",
+    "dotenv": "^16.4.7"
+  }
+}
